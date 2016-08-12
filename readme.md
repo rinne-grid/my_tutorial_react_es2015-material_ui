@@ -23,3 +23,5 @@ npm install
 
 * ビルド元: entry.js
 * ビルド先: bundle.js
+
+![チュートリアル](http://rinsymbol.sakura.ne.jp/github_images/react_es2015_material-ui.JPG)
